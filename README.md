@@ -76,7 +76,3 @@ This project was developed by Rafael Nogueira.
 
 *   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ragn/)
 *   [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/rafael-a-g-n)
-
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
